@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">	
+<title>Untitled 1</title>
+</head>
+
+<body>
+<center>
+                        <div style="width: 50%;">
+                            <div id="felso" style="padding-top: 56.25%; position: relative; overflow: hidden;">
+                                <iframe id="videoLEF" src="https://player.twitch.tv/?channel=eneshu&muted=false&autoplay=true" allow="fullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" />
+                            </div>
+                        </div>
+                                </iframe>
+</center>
+                        <div style="width: 50%;">
+                            <div id="felso" style="padding-top: 56.25%; position: relative; overflow: hidden; left: 1106px; top: -1px;">
+                                <iframe id="videoLEF" src="https://player.twitch.tv/?channel=eneshu&muted=false&autoplay=true" allow="fullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" />
+                            </div>
+                        </div>
+                                </iframe>
+
+							</div>
+                            <div id="felso1" style="padding-top: 56.25%; position: relative; overflow: hidden; left: -369px; top: -415px;">
+                                <iframe id="I2" src="https://player.twitch.tv/?channel=eneshu&muted=false&autoplay=true" allow="fullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" name="I2" />
+                            </div>
+                        </div>
+                                </iframe>
+
+							</div>
+                            <div id="felso0" style="padding-top: 56.25%; position: relative; overflow: hidden; left: 368px; top: -417px;">
+                                <iframe id="I1" src="https://player.twitch.tv/?channel=eneshu&muted=false&autoplay=true" allow="fullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" name="I1" />
+                            </div>
+                        </div>
+                                </iframe>
+
+</body>
+
+</html>
